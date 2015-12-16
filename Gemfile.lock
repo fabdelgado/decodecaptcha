@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    deathbycaptcha (5.0.3)
+    mini_portile2 (2.0.0)
+    nokogiri (1.6.7)
+      mini_portile2 (~> 2.0.0.rc2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  deathbycaptcha (~> 5.0.0)
+  nokogiri
+
+BUNDLED WITH
+   1.10.6
