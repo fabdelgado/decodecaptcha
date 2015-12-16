@@ -1,4 +1,4 @@
-#Decode recaptcha with Death By Captcha
+#Decode captcha with Death By Captcha
 
 1 - Bundle install into folder of proyect<br>
 2 - Set url in script <br>
